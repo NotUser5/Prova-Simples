@@ -7,7 +7,7 @@ Para a prova foi criada uma aplicação ASP.NET Core projetada para lidar com pe
 
 ### Ambiente de Desenvolvimento
 
-Esta aplicação foi desenvolvida e configurada usando o Visual Studio 2022 como a IDE de desenvolvimento principal. Para contribuir ou executar a aplicação em seu ambiente local, é recomendável ter o Visual Studio 2022 instalado.
+Esta aplicação foi desenvolvida e configurada usando o Visual Studio 2022 como a IDE de desenvolvimento principal. Para contribuir ou executar a aplicação em seu ambiente local, é recomendável ter o Visual Studio 2022 instalado. Foi utilizado o Swagger para fazer os testes dos endpoints.
 
 ### Banco de Dados
 
